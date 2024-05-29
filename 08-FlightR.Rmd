@@ -12,7 +12,7 @@ setupGeolocation()
 
 ```{r, warning=FALSE, message=FALSE}
 ID <- "M034"
-wd <- "Data"
+wd <- "data"
 Species <- "LanCol" 
 
 lon.calib <- 12.33
